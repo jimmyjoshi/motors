@@ -1,0 +1,4 @@
+[18-Feb-2017 12:26:11 UTC] PHP Fatal error:  Class 'Master' not found in /home/eboxpanel/public_html/adminpanel/register.php on line 3
+[18-Feb-2017 12:26:12 UTC] PHP Fatal error:  Class 'Master' not found in /home/eboxpanel/public_html/adminpanel/index.php on line 3
+[24-Mar-2017 17:18:24 UTC] PHP Fatal error:  Call to undefined method Master::getAllProducts() in /home/eboxpanel/public_html/motors/products.php on line 12
+[24-Mar-2017 17:18:52 UTC] PHP Fatal error:  Call to undefined method Master::getAllProducts() in /home/eboxpanel/public_html/motors/products.php on line 12

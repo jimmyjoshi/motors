@@ -1,0 +1,365 @@
+category,code,name,price,quantity
+ED,ED15199,PINION ONLY LEYLAND 37T,0.00,2.00
+ED,ED15226,BEWEL GEAR SMALL 10T,0.00,1.00
+ED,ED15229,SPIDER ONLY,0.00,1.00
+ED,ED21999,PINION ONLY TATA 1613 41T,0.00,5.00
+ED,ED22499,PINION ONLY TATA1312/1612 45T,0.00,1.00
+ED,ED22599,PINION ONLY 1210S SHAKTI 48T,0.00,1.00
+ED,ED22899,PINON ONLY TATA 1616 (41x 7T ),0.00,3.00
+ED,ED40199,PINION TAFE(SHORT)37T,0.00,2.00
+ED,ED40299,PINION TAFE(LONG)37T,0.00,1.00
+ED,ED50199,PINION ONLY FORD 37T,0.00,1.00
+ED,ED87999,PINION ONLY L/L MULTI AXLE 37T,0.00,7.00
+ED,ED88999,PINION FOR LEY M/A 41T,0.00,3.00
+ED,RD/15229,SPIDER ONLY,0.00,1.00
+ED,RD/15799,PINION FOR LEYLAND 35T,0.00,2.00
+ED,RD/22527,BEVEL GR. BIG PLANETARY,0.00,3.00
+ED,RD/31427,ESCORTS (E-355) PLANETARY,0.00,6.00
+ED,ED45900,CROWN WHEEL & PINION SIL 8x33,0.00,3.00
+ED,ED47200,CR. WL & PINION 8x37 A/SHAKTI REV.T,0.00,1.00
+ED,ED55100,CROWN WHEEL PINION CANTER,0.00,1.00
+ED,ED77600,TATA CWP 2515 EX MULTI  AXLE,0.00,1.00
+ED,ED88000,CROWN WHEEL & PINON MULTI AXLE,0.00,2.00
+ED,ED89000,CWP  6 X 41 MULTI  AXLE  2214,0.00,1.00
+ED,ED31700,CR. WHEEL PINON  SET ESCORTS,0.00,1.00
+ED,ED31900,CROWN WHEEL & PINON ESC.,0.00,1.00
+ED,ED40199E,EF-42 PINION ONLY MF CW-37,0.00,3.00
+ED,ED40200E,CWP M/F  6x37,0.00,2.00
+ED,ED15213,4TH SPEED GEAR ON C/S 37T,0.00,2.00
+ED,ED15301,MAIN DRIVE GEAR MODIFIED 20T,0.00,1.00
+ED,ED15501,MAIN DRIVE GEAR HINO,0.00,1.00
+ED,ED15703,COUNTER SHAFT (NUT TYPE),0.00,1.00
+ED,ED15712,REVERSE GEAR ON M/S 48T,0.00,2.00
+ED,ED22216,2ND SPEED GEAR 28T,0.00,4.00
+ED,ED22262,COLLAR BUSH GB 30,0.00,4.00
+ED,ED22412,REV. IDLER GEAR 23T,0.00,5.00
+ED,ED22505,1ST SPEED GEAR 39T,0.00,2.00
+ED,ED22508,SPLIT DOUBLE GEAR BIG 34T,0.00,2.00
+ED,ED22513,4TH SPEED GEAR 20T,0.00,5.00
+ED,ED22613,4TH SPEED GEAR 29T,0.00,2.00
+ED,ED22701,MAIN DRIVE GEAR 17T,0.00,1.00
+ED,ED22708,SPLT TWIN GEAR 23T,0.00,3.00
+ED,ED22713,4TH SPEED GEAR ON C/S 29T,0.00,4.00
+ED,ED22716,2ND SPEED GEAR 32T TATA 1210E,0.00,1.00
+ED,ED22732,SYN.SLEEVE 2nd/3rd HINO,0.00,1.00
+ED,ED22763,COLLAR BUSH GBS 40,0.00,1.00
+ED,ED22791,SYN. CONE,0.00,3.00
+ED,ED22801,MAIN DRIVE GEAR 1312,0.00,1.00
+ED,ED22805,1St.SPEED GEAR MODI.38T,0.00,1.00
+ED,ED22809,TWIN GEAR ON C/S 17-22T,0.00,2.00
+ED,ED22811,3RD SPEED GEAR ON M/S 26T,0.00,1.00
+ED,ED22812,REVERSE GEAR GB40,0.00,10.00
+ED,ED22814,CONSTANT MESH GEAR 38T TATA 1312,0.00,9.00
+ED,ED22891,SYN. CONE GBS50,0.00,6.00
+ED,ED22901,MAIN DRIVE GEAR TATA1613,0.00,2.00
+ED,ED22903,COUNTER SHAFT 12T MODI,0.00,1.00
+ED,ED22913,4TH SPEED GEAR ON M/S 1210E,0.00,1.00
+ED,ED22918,SHIFTER SLEEVE 2ND & 3RD GEAR,0.00,2.00
+ED,ED50205,1ST SPEED GEAR 45T GBS50,1990.00,3.00
+ED,ED50209,TWIN GEAR GB550,0.00,1.00
+ED,ED50212,REVERSE GEAR 42T GBS50,1950.00,4.00
+ED,ED50216,2ND SPEED GEAR 37T GBS 50,1490.00,2.00
+ED,ED50222,SYN. RING 1/2/3/4 GBS 50,0.00,1.00
+ED,ED50223,SYN. RING REV GR  GBS 50,0.00,6.00
+ED,ED50232,SYN. SLEEV 1/R & 2/3 GBS 50,0.00,3.00
+ED,ED75291,SYN. RING 5th & Top GEAR,0.00,3.00
+ED,ED75292,SYN. RING 3rd & 4th GEAR,0.00,4.00
+ED,ED75293,ZF SYN. RING 1st & 2nd GEAR,0.00,1.00
+ED,ED75313,4TH GEAR ON CRANK SHAFT,0.00,2.00
+ED,ED75319,6TH GEAR ON CRANK SHAFT,0.00,1.00
+ED,RD/11249,CLUCH SLEEVE 30T,0.00,4.00
+ED,RD/12203,Counter Gear 12+21+26+31T,0.00,1.00
+ED,RD/12216,2ND SPEED GEAR H-3002302,0.00,4.00
+ED,RD/12401,Main Drive Gear 19T,0.00,2.00
+ED,RD/15816,2ND SPD GEAR ON C/S 23T,0.00,1.00
+ED,RD/22235,OIL PUMP GEAR TATA,0.00,12.00
+ED,RD/22402,MAIN SHAFT 8 SPLINES,0.00,1.00
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
